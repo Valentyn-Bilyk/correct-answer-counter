@@ -1,0 +1,14 @@
+a 1-5: abcdj
+z 2-4: asfalseiruqwo
+b 3-6: bhhkkbbjjjb
+x 7-10: wxyzxyt
+m 4-8: mnopqrst
+
+k 1-3: abcdekkkkk
+l 5-7: uvwxyz
+d 2-6: ghjddklm
+
+t 8-12: pqrstuvwxyz
+y 1-4: zxyabc
+
+p 6-9: deppfppghppi
